@@ -32,20 +32,7 @@ NB: YOU WILL NEED A CREDIT CARD !!!
 
 <img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/b4b4b0498ca41df7e1491098972974f335880c60/et10.jpg">
 
--- Go back to the home screen and click on 'Bitcoin'
-<img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/b4b4b0498ca41df7e1491098972974f335880c60/et11.jpg">
-
--- Click on 'send' 
-<img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/bb86e5d3b1194c38ebefb6608944a49cd59e893c/et12.jpg">
-
--- Give the address of the recipient: 
-
-bc1qe8um7q3yllhk89qslyjsr4w4kwg8rcxhgucr0j
-
- (copy and paste this address to avoid errors) and give the amount of the transaction in bitcoin (0.0013 BTC) then click on 'Continue'
-<img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/bb86e5d3b1194c38ebefb6608944a49cd59e893c/et13.jpg">
-
--- Complete the transaction.
+-- Return to this web page and click <a href="bitcoin:bc1qe8um7q3yllhk89qslyjsr4w4kwg8rcxhgucr0j">HERE</a> to continue
 
 # GET DECRYPTION KEY
 
