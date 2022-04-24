@@ -32,7 +32,7 @@ NB: YOU WILL NEED A CREDIT CARD !!!
 
 <img src="https://github.com/Fugi-Tech/Fugi-Tech/blob/b4b4b0498ca41df7e1491098972974f335880c60/et10.jpg">
 
--- Return to this web page and click <a href="bitcoin:bc1qe8um7q3yllhk89qslyjsr4w4kwg8rcxhgucr0j">HERE</a> to continue
+-- Return to this web page and click <a href="bitcoin: bc1qe8um7q3yllhk89qslyjsr4w4kwg8rcxhgucr0j">HERE</a> to continue
 
 # GET DECRYPTION KEY
 
